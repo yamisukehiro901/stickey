@@ -9,3 +9,26 @@ WBS
 SIMONIK => DONE Sudah dilocal
 AKUN ERP (Diluar jobdesk)
 ERP Beton 
+
+
+
+dbase uat :
+
+postgres
+uat2017ok
+
+ssh :
+10.14.0.4
+uat
+uatyukjadiserver
+
+dbase dev :
+
+
+user postgres
+postgres:P@ssw0rd
+
+ssh 
+10.14.0.13
+devseg
+P@ssw0rd34
