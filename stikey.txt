@@ -1,0 +1,11 @@
+SIM Pengadaan => Done udah di local
+SIM Asset 
+Data Bank => Done udah dilocal
+Nindya API => Done Udah dilocal
+   - dash pengadaan
+   - api_invoice
+   - ess
+WBS
+SIMONIK => DONE Sudah dilocal
+AKUN ERP (Diluar jobdesk)
+ERP Beton 
