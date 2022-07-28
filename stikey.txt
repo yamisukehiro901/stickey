@@ -2,8 +2,9 @@ SIM Pengadaan => Done udah di local
 SIM Asset 
 Data Bank => Done udah dilocal
 Nindya API => Done Udah dilocal
-   - dash pengadaan
-   - api_invoice
+   - ApiPengadaan
+   - DashPengadaan
+   - ApiInvoice
    - ess
 WBS
 SIMONIK => DONE Sudah dilocal
