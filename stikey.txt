@@ -10,6 +10,8 @@ WBS
 SIMONIK => DONE Sudah dilocal
 AKUN ERP (Diluar jobdesk)
 ERP Beton 
+VMS
+SIMNKSDM New => Untuk Notif
 
 
 
