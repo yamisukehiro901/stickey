@@ -12,6 +12,7 @@ AKUN ERP (Diluar jobdesk)
 ERP Beton 
 VMS
 SIMNKSDM New => Untuk Notif
+FIDA => API
 
 
 Query Sakti ada di 
