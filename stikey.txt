@@ -6,6 +6,8 @@ Nindya API => Done Udah dilocal
    - DashPengadaan
    - ApiInvoice
    - ess
+   - DashSCM
+   - ess_v2
 SubSistem => Keluhan Pelanggan
 
 WBS
