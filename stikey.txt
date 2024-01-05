@@ -8,6 +8,7 @@ Nindya API => Done Udah dilocal
    - ess
    - DashSCM
    - ess_v2
+   - Query DWH ETL
 SubSistem => Keluhan Pelanggan
 
 WBS
