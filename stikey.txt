@@ -40,6 +40,8 @@ ssh :
 10.14.0.4
 uat
 uatyukjadiserver
+B3rkahIllahi23
+
 
 dbase dev :
 
@@ -51,3 +53,4 @@ ssh
 10.14.0.13
 devseg
 P@ssw0rd34
+p: P@ssw0rdHJ
