@@ -53,4 +53,18 @@ ssh
 10.14.0.13
 devseg
 P@ssw0rd34
+
+u: deverp 
 p: P@ssw0rdHJ
+
+
+
+ERP DEV update 7 maret 2024
+
+10.14.0.13
+u: deverp
+p: P@ssw0rdHJ
+
+postgres
+u: postgres
+p: untuk3rpJ0ss!
