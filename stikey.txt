@@ -41,6 +41,7 @@ ssh :
 uat
 uatyukjadiserver
 B3rkahIllahi23
+B3rkahillahi23
 
 
 dbase dev :
