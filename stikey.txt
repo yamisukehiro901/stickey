@@ -74,7 +74,7 @@ u: postgres
 p: untuk3rpJ0ss!
 
 ======================================
-Microsoft 365
+Microsoft 365 => https://www.office.com/?auth=2
 
 dzulianto.saputra@nindyakarya.co.id
 Luh79728
