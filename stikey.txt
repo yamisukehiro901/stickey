@@ -111,3 +111,4 @@ D:\DCK
 D:\DOCKER APP
 D:\lara11-dck
 C:\laragon8\www\compro_11
+D:\cms => Laravel 11 spatie, input modul br muncul di sidebar
