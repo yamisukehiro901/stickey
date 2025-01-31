@@ -12,7 +12,7 @@ Nindya API => Done Udah dilocal
 SubSistem => Keluhan Pelanggan
 
 WBS
-SIMONIK => DONE Sudah dilocal
+SIMONIK => DONE Sudah dilocal, cron paging
 AKUN ERP (Diluar jobdesk)
 ERP Beton 
 VMS
