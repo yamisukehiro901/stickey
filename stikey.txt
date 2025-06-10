@@ -69,6 +69,10 @@ ERP DEV update 7 maret 2024
 u: deverp
 p: P@ssw0rdHJ
 
+Untuk mainnya 
+u: sysdev
+p: zm+6bkFXRb9OIN59#@
+
 postgres
 u: postgres
 p: untuk3rpJ0ss!
