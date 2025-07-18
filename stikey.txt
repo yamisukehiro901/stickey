@@ -77,6 +77,9 @@ postgres
 u: postgres
 p: untuk3rpJ0ss!
 
+Kumpulan query
+C:\Users\Departemen STI\.dbeaver4\General\Scripts
+
 ======================================
 Microsoft 365 => https://www.office.com/?auth=2
 
@@ -97,7 +100,7 @@ Freeyork1989
 ======================================
 GitLab = finnoallafine
 wifi = bungamawar
-
+vpn = Bungamawar@20
 ======================================
 mihepa code, ecommerce pembayaran midtrans Laravel 8
 
